@@ -1,0 +1,101 @@
+{
+	"manifest_version": 2,
+	"name": "Midnight Waffle",
+	"description": "Not another gray theme. This is real darkness.",
+	"version": "1.0",
+	"author": "deepl",
+	"theme": {
+		"colors": {
+			"frame": [
+				29,
+				30,
+				31
+			],
+			"frame_inactive": [
+				43,
+				44,
+				47
+			],
+			"frame_incognito": [
+				29,
+				30,
+				31
+			],
+			"frame_incognito_inactive": [
+				43,
+				44,
+				47
+			],
+			"background_tab": [
+				29,
+				30,
+				31
+			],
+			"background_tab_inactive": [
+				29,
+				30,
+				31
+			],
+			"background_tab_incognito": [
+				29,
+				30,
+				31
+			],
+			"background_tab_incognito_inactive": [
+				29,
+				30,
+				31
+			],
+			"bookmark_text": [
+				255,
+				255,
+				255
+			],
+			"tab_background_text": [
+				191,
+				191,
+				191
+			],
+			"tab_background_text_inactive": [
+				191,
+				191,
+				191
+			],
+			"tab_background_text_incognito": [
+				191,
+				191,
+				191
+			],
+			"tab_background_text_incognito_inactive": [
+				191,
+				191,
+				191
+			],
+			"tab_text": [
+				255,
+				255,
+				255
+			],
+			"toolbar": [
+				18,
+				19,
+				20
+			],
+			"toolbar_button_icon": [
+				255,
+				255,
+				255
+			],
+			"omnibox_text": [
+				255,
+				255,
+				255
+			],
+			"omnibox_background": [
+				29,
+				30,
+				31
+			]
+		}
+	}
+}
